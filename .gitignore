@@ -1,0 +1,5 @@
+# Node dependencies
+prokat-backend/node_modules
+prokat-frontend/node_modules
+
+prokat-frontend/.editorconfig
